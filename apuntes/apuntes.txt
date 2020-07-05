@@ -12,6 +12,17 @@
     author:
     license: (ISC)
 
+3) instalar XMLHTTPREQUEST
+    npm install xmlhttprequest --save
+
 ---------------------------------------------------------------------------
 
 Definición de CallBack: es una función que le indica a otra funcion que ejecute todo el proceso que hay en ella y notifique cuando termine
+
+
+los callbacks tienen 5 estados:
+    0) inicialización 
+    1) cargando los datos del llamado
+    2) cuando ya se ha cargado los datos
+    3) si hay alguna descarga
+    4) completado
