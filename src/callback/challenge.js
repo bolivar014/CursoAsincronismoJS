@@ -1,6 +1,5 @@
 // Instancia al llamado de una API desde JS
 let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
-
 // URL de la API
 let API = 'https://rickandmortyapi.com/api/character/';
 
