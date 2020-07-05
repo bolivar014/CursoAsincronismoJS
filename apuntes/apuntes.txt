@@ -35,3 +35,11 @@ los callbacks tienen 5 estados:
 
 Promesas: algo va a suceder en algun momento.... ahora, en el futuro o nunca...
     promises
+
+---------------------------------------------------------------------------
+Async:
+
+
+Await: 
+
+son funciones sincronas
