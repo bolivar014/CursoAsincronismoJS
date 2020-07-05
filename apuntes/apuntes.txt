@@ -12,5 +12,6 @@
     author:
     license: (ISC)
 
+---------------------------------------------------------------------------
 
-
+Definición de CallBack: es una función que le indica a otra funcion que ejecute todo el proceso que hay en ella y notifique cuando termine
