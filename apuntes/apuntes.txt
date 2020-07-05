@@ -1,0 +1,16 @@
+1) git init
+
+2) npm init
+
+    package name: (cursoasincronismojs)
+    version: (1.0.0)
+    description: trabajar con asincronismo en JS // Descripción
+    entry point: (index.js) src/index.js // Indicamos que el index va dentro de la carpeta src
+    test command:
+    git repository:
+    keywords: callbacks, promise, async // Palabras Claves
+    author:
+    license: (ISC)
+
+
+
